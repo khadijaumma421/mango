@@ -1,0 +1,46 @@
+.gwendolyn-regular {
+    font-family: "Gwendolyn", cursive;
+    font-weight: 400;
+    font-style: normal;
+  }
+  
+  .gwendolyn-bold {
+    font-family: "Gwendolyn", cursive;
+    font-weight: 700;
+    font-style: normal;
+  }
+
+  p{
+    font-size: 30px;
+    font-family: "Gwendolyn";
+  }
+
+  div{
+    width: 20%;
+    height: 300px;
+    margin: auto;
+    background-color: blue;
+    box-shadow: 20px 10px 20px burlywood ;
+  }
+
+  #animation{
+    width: 40%;
+    height: 300px;
+    background-color: crimson;
+    border-radius: 20px;
+    box-shadow:10px 10px 20px 20px red ;
+    margin: auto;
+    margin-bottom: 80px;
+    animation: khadija;
+  }
+
+  @keyframes khadija
+  {0% {background-color:aqua;border:0px; box-shadow:30px gold;}
+  25% {background-color: blueviolet  ;}
+
+
+
+
+}
+
+   
